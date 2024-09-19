@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo7\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo7",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo7\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo6",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo6\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo5",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo5\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo4",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo4\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo2",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo2\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo8\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo8",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo8\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo3",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo3\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo1",
+  "command": "clang++ -c C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo1\\main.cpp -o C:\\Users\\DGGC\\Desktop\\sesion1\\Sesion1\\Sesion1\\ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
